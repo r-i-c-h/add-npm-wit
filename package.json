@@ -1,0 +1,25 @@
+{
+  "name": "new-perfect-msgs",
+  "version": "1.0.0",
+  "description": "Tool to help with new submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-i-c-h/add-npm-wit.git"
+  },
+  "keywords": [
+    "npm",
+    "checker",
+    "tool",
+    "quotes"
+  ],
+  "author": "@r-i-c-h",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r-i-c-h/add-npm-wit/issues"
+  },
+  "homepage": "https://github.com/r-i-c-h/add-npm-wit#readme"
+}
